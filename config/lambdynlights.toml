@@ -1,0 +1,127 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				sheep = true
+				chest_minecart = true
+				chicken = true
+				cow = true
+				squid = true
+				axolotl = true
+				item = true
+				bat = true
+				cod = true
+				glow_squid = true
+				tropical_fish = true
+				bee = true
+				dolphin = true
+				tnt_minecart = true
+				villager = true
+				horse = true
+				polar_bear = true
+				frog = true
+				creeper = true
+				skeleton = true
+				zombie = true
+				enderman = true
+				spider = true
+				zombie_villager = true
+				witch = true
+				fox = true
+				wolf = true
+				pig = true
+				rabbit = true
+				minecart = true
+				turtle = true
+				drowned = true
+				ender_dragon = true
+				cave_spider = true
+				goat = true
+				salmon = true
+				stray = true
+				evoker = true
+				vindicator = true
+				pillager = true
+				illusioner = true
+				slime = true
+				armor_stand = true
+				experience_orb = true
+				item_frame = true
+				husk = true
+				parrot = true
+				ocelot = true
+				potion = true
+				wither_skeleton = true
+				phantom = true
+				hoglin = true
+				painting = true
+				donkey = true
+				cat = true
+				iron_golem = true
+
+			[light_sources.settings.entities.naturalist]
+				lizard = true
+				snail = true
+				boar = true
+				firefly = true
+				butterfly = true
+				duck = true
+				dragonfly = true
+				alligator = true
+				cardinal = true
+				bass = true
+				catfish = true
+				coral_snake = true
+				vulture = true
+				bear = true
+				bluejay = true
+				finch = true
+				deer = true
+				snake = true
+				robin = true
+				sparrow = true
+				tortoise = true
+				rattlesnake = true
+				lion = true
+				giraffe = true
+				canary = true
+
+			[light_sources.settings.entities.mythicmounts]
+				courierbird = true
+				griffon = true
+				geckotoalizard = true
+				firebird = true
+				dragon = true
+				acencia = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+				ender_whale = true
+				deer = true
+				orc = true
+
+			[light_sources.settings.entities.levelz]
+				level_experience_orb = true
+
