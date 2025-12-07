@@ -1,4 +1,4 @@
-![RPG Plus](https://cdn.modrinth.com/data/cached_images/c1a7b7ea3a2a0af44ca6a5703312e2aaeef556da.png)
+![RPG Plus](https://cdn.modrinth.com/data/cached_images/578298a84d93425c920e749c2e01a8ee619a8f14.png)
 # ![RPG Plus](https://cdn.modrinth.com/data/cached_images/3d8d92e1ec59b1d64cb423fdfc80976c5c838848.png)RPG Plus - The Reimagined Minecraft Experience
 ### Be sure to click ❤️FOLLOW❤️ if you want to get the latest Update news, it also helps me a lot!
 _(INCLUDES DISTANT HORIZONS 2.3 AND COMPATIBLE IRIS SHADERS)_
