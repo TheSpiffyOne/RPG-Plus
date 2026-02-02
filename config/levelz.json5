@@ -9,7 +9,7 @@
 	"startPoints": 5,
 	// Enables starter points for SERVER only
 	"enableStartPoints": false,
-	"pointsPerLevel": 1,
+	"pointsPerLevel": 2,
 	// If true will reset stats on death
 	"hardMode": false,
 	"disableMobFarms": true,
@@ -94,7 +94,7 @@
 	"xpMaxCost": 0,
 	"resetCurrentXP": true,
 	"dropPlayerXP": true,
-	"dropXPbasedOnLvl": false,
+	"dropXPbasedOnLvl": true,
 	// 0.01 = 1% more xp per lvl
 	"basedOnMultiplier": 0.009999999776482582,
 	"breedingXPMultiplier": 1.0,
@@ -107,7 +107,7 @@
 	"mobXPMultiplier": 1.0,
 	"spawnerMobXP": false,
 	// Highlight locked blocks in red., client only
-	"highlightLocked": false,
+	"highlightLocked": true,
 	// client only
 	"sortCraftingRecipesBySkill": false,
 	// client only
@@ -123,7 +123,7 @@
 	// Switch levelz screen instead of closing with inventory key, client only
 	"switch_screen": false,
 	// client only
-	"showLockedBlockInfo": false,
+	"showLockedBlockInfo": true,
 	// client only
 	"lockedBlockInfoPosX": 0,
 	// client only
