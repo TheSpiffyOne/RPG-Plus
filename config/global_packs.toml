@@ -13,7 +13,7 @@ log_pack_ids = false
 #For that simply specify the file path to the folder/file relative to your .minecraft or instance folder
 #With the current config you can place a Datapack into '.minecraft/global_packs/required_data' to force enable a datapack.
 [resourcepacks]
-	required = ["global_packs/required_data/FreshAnimations_v1.10.1.zip", "global_packs/required_data/3D Default 1.20+ v1.13.0.zip", "global_packs/required_data/STONEBORN - Denis' Mod Compats v2.0.zip", "global_packs/required_data/STONEBORN+-+1.20-1.20.1+-+V3.2.3.zip", "global_packs/required_data/Icons v.1.12 1.20.1-1.21.1.zip", "global_packs/required_data/Icons Fix 1.20-1.20.1.zip", "global_packs/required_data/[1.4.1] Enhanced Boss Bars.zip"]
+	required = ["global_packs/required_data/FreshAnimations_v1.10.1.zip", "global_packs/required_data/3D Default 1.20+ v1.13.0.zip", "global_packs/required_data/STONEBORN - Denis' Mod Compats v2.1.zip", "global_packs/required_data/STONEBORN+-+1.20-1.20.1+-+V3.2.3.zip", "global_packs/required_data/Icons v.1.12 1.20.1-1.21.1.zip", "global_packs/required_data/Icons Fix 1.20-1.20.1.zip", "global_packs/required_data/[1.4.1] Enhanced Boss Bars.zip"]
 	enable_builtin = []
 
 [datapacks]

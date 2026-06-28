@@ -13,7 +13,6 @@ itemFrame3FaceCullingRange = 2.0
 leavesCullingMode = "DEFAULT"
 leavesCullingAmount = 2
 includeMangroveRoots = true
-powderSnowCulling = true
 endGatewayCulling = true
 beaconBeamCulling = true
 entityModelCulling = false

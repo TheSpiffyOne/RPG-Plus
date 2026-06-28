@@ -1,5 +1,5 @@
 {
-  "inv_toggle": true,
+  "inv_toggle": false,
   "pot_toggle": true,
   "arm_toggle": true,
   "helm_x": 103,
@@ -39,7 +39,7 @@
   "inv_hide_b_g": false,
   "inv_animated": false,
   "inv_with_debug": true,
-  "keep_notifying": true,
+  "keep_notifying": false,
   "inv_x": 0,
   "inv_y": 150,
   "inv_alpha": 0,

@@ -38,16 +38,13 @@ mapScale = 0
 # default: 100
 chunkTickLimit = 100
 # How to handle biomes that aren't in any minecraft, conventional, or forge biome tags
-# options: TEST, MISSING, CRASH
+# options: TEST, MISSING, PLAINS, CRASH
 # default: MISSING
 fallbackFailHandling = "MISSING"
-# Disables fading when Marker Icons approach the edge of the Atlas.
-# Needed for shader support, pair with Shader Patch resource pack.
-# default: false
-shaderCompat = false
-# Whether to show debug information about hovered tiles and markers
-# default: false
-debugRender = false
+# How to display areas that aren't explored yet
+# options: CLOUDS, EMPTY
+# default: EMPTY
+emptyHandling = "EMPTY"
 
 [structureMarkers]
 	"minecraft:type/end_city" = false
@@ -60,3 +57,13 @@ debugRender = false
 	"minecraft:start/village_savanna" = true
 	"minecraft:start/village_desert" = true
 	"minecraft:type/woodland_mansion" = true
+
+# Options to adjust map behaviour for custom or modified dimensions.
+[dimensions]
+
+	# Cycle order and coordinate scales of each dimension.
+	# If not 0, the relative position of the player will be shown.
+	[dimensions.scales]
+		"minecraft:overworld" = 8
+		"minecraft:the_nether" = 1
+		"minecraft:the_end" = 0
