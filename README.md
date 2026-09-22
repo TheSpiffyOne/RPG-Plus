@@ -1,11 +1,11 @@
 ![RPG Plus](https://cdn.modrinth.com/data/cached_images/578298a84d93425c920e749c2e01a8ee619a8f14.png)
 # ![RPG Plus](https://cdn.modrinth.com/data/cached_images/3d8d92e1ec59b1d64cb423fdfc80976c5c838848.png)RPG Plus - The Reimagined Minecraft Experience
-### Be sure to click ❤️FOLLOW❤️ if you want to get the latest Update news, it also helps me a lot!
+### Be sure to click ❤️FOLLOW❤️ if you want to get the latest news!
 _(INCLUDES DISTANT HORIZONS 2.3 AND COMPATIBLE IRIS SHADERS)_
 
 The **RPG Plus Modpack** aims to immensely improve your Minecraft experience. It makes Minecraft more exciting to play by providing incredible new Features and Gameplay as well as new stunning Visuals. This makes Minecraft less boring - you get a playthrough that is more unique and fun to play!
 
-This Modpack contains over **156 mods** all working together to create a _Minecraft 2.0 experience_. The Modpack also includes **Distant Horizons** among other terrain mods which will make your world seem vast and endless.
+This Modpack contains over **170+ mods** all working together to create a _Minecraft 2.0 experience_. The Modpack also includes **Distant Horizons** among other terrain mods which will make your world seem vast and endless.
 
 ## ✨The RPG Plus Experience
 The early game is not easy and provides rpg-like gameplay where you are fighting for survival. As you progress, you get better gear and level points, which you can use to upgrade your skills in order to get better gear. Explore vast dungeons, slay tough enemies and create unique memories!
@@ -24,7 +24,7 @@ The early game is not easy and provides rpg-like gameplay where you are fighting
 </ul>
 
 ## ![Discord](https://cdn.modrinth.com/data/cached_images/8c25f3d1fb5feeb715144eb16de0201076ef74b2.png)Discord Server
-If you have any Issues, Questions, Feedback or just want to hang out, join our Discord Server https://discord.gg/dh7jVus9ZX!
+If you have any Issues, Questions, Feedback or just want to hang out - join our Discord Server https://discord.gg/dh7jVus9ZX!
 
 ## ❓FAQ
 <ul>
