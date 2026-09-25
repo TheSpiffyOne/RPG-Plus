@@ -1,8 +1,13 @@
-![RPG Plus](https://cdn.modrinth.com/data/cached_images/578298a84d93425c920e749c2e01a8ee619a8f14.png)
+![RPG Plus](https://cdn.modrinth.com/data/cached_images/e4de08285bb9afd74035aa35de2b69c31f7ba694.png)
 
-[![Donation](https://img.shields.io/badge/Support%20me-Donate-blue?style=for-the-badge&logo=paypal&labelColor=%232196F3&color=%231561a3)](https://app.lava.top/spiffy?tabId=donate)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Now!-%23303234?style=for-the-badge&logo=discord&logoColor=%23ffffff&labelColor=%235865F2)](https://discord.gg/dh7jVus9ZX)
-[![Github](https://img.shields.io/badge/Github-Open-white?style=for-the-badge&logo=github&logoColor=white&labelColor=%230d1117)](https://github.com/TheSpiffyOne/RPG-Plus)
+[![Github](https://shieldcn.dev/github/TheSpiffyOne/RPG-Plus/release.svg?size=default&logo=lu%3AGithub)](https://github.com/TheSpiffyOne/RPG-Plus/releases)
+[![Discord](https://shieldcn.dev/discord/1254903815526813766.svg?variant=branded&size=default&logo=discord&brand=discord)](https://discord.gg/dh7jVus9ZX)
+[![Donation](https://shieldcn.dev/badge/donate%20<3.svg?size=default&theme=emerald&logo=ri%3APiMoneyWavy&labelTextColor=ffffff)](https://app.lava.top/spiffy?tabId=donate)
+
+
+
+
+
 # ![RPG Plus](https://cdn.modrinth.com/data/cached_images/3d8d92e1ec59b1d64cb423fdfc80976c5c838848.png)RPG Plus - The Reimagined Minecraft Experience
 
 ### Be sure to click ❤️FOLLOW❤️ if you want to get the latest news!
