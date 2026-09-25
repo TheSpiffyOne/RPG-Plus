@@ -4,21 +4,14 @@
 [![Discord](https://shieldcn.dev/discord/1254903815526813766.svg?variant=branded&size=default&logo=discord&brand=discord)](https://discord.gg/dh7jVus9ZX)
 [![Donation](https://shieldcn.dev/badge/donate%20<3.svg?size=default&theme=emerald&logo=ri%3APiMoneyWavy&labelTextColor=ffffff)](https://app.lava.top/spiffy?tabId=donate)
 
-
-
-
-
 # ![RPG Plus](https://cdn.modrinth.com/data/cached_images/3d8d92e1ec59b1d64cb423fdfc80976c5c838848.png)RPG Plus - The Reimagined Minecraft Experience
 
-### Be sure to click ❤️FOLLOW❤️ if you want to get the latest news!
-_(INCLUDES DISTANT HORIZONS 2.3 AND COMPATIBLE IRIS SHADERS)_
+The **RPG Plus Modpack** aims to immensely improve your Minecraft experience. It makes Minecraft more exciting to play by providing incredible new Features and Gameplay as well as new stunning Visuals. This makes Minecraft less boring — you get a playthrough that is more unique and fun to play!
 
-The **RPG Plus Modpack** aims to immensely improve your Minecraft experience. It makes Minecraft more exciting to play by providing incredible new Features and Gameplay as well as new stunning Visuals. This makes Minecraft less boring - you get a playthrough that is more unique and fun to play!
-
-This Modpack contains over **170+ mods** all working together to create a _Minecraft 2.0 experience_. The Modpack also includes **Distant Horizons** among other terrain mods which will make your world seem vast and endless.
+This Modpack contains over **170+ MODS** all working together to create a _MINECRAFT 2.0_ experience. It also includes **DISTANT HORIZONS 3.3** with **7 SHADERS** for your choosing, among other terrain mods which will make your world seem vast and endless.
 
 ## ✨The RPG Plus Experience
-The early game is not easy and provides rpg-like gameplay where you are fighting for survival. As you progress, you get better gear and level points, which you can use to upgrade your skills in order to get better gear. Explore vast dungeons, slay tough enemies and create unique memories!
+The early game is not easy and provides RPG-like gameplay where you are fighting for survival. As you progress, you get better gear and level points, which you can use to upgrade your skills in order to get better gear. Explore vast dungeons, slay tough enemies and create unique memories! The current progression system is **WIP** and I would love to hear your feedback!
 
 ### 📌Features
 <ul>
@@ -34,7 +27,7 @@ The early game is not easy and provides rpg-like gameplay where you are fighting
 </ul>
 
 ## ![Discord](https://cdn.modrinth.com/data/cached_images/8c25f3d1fb5feeb715144eb16de0201076ef74b2.png)Discord Server
-If you have any Issues, Questions, Feedback or just want to hang out - join our Discord Server https://discord.gg/dh7jVus9ZX!
+If you have any Issues, Questions, Feedback or just want to hang out — join our Discord Server! https://discord.gg/dh7jVus9ZX
 
 ## ❓FAQ
 <ul>
@@ -48,7 +41,7 @@ If you have any Issues, Questions, Feedback or just want to hang out - join our 
 
 <li>Q: My World is loading slow why?
 
-**A:** There are over 156 mods, they all require to be loaded + Distant Horizons takes some time to load, so please be patient</li>
+**A:** There are over 170+ mods, they all require to be loaded + Distant Horizons takes some time to load, so please be patient</li>
 
 <li>Q: I want to add a different shader, how do I do that?
 
